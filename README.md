@@ -1,7 +1,6 @@
-<b> Nimish A. Nagapure </b>
-<br />
-E-mail: nimishnagapure@gmail.com  	 	      	  	        
-Mobile : 7264046342 
+## Nimish A. Nagapure
+## E-mail: nimishnagapure@gmail.com  	 	      	  	        
+## Mobile : 7264046342 
 
      
 ### Profile
@@ -9,7 +8,7 @@ Mobile : 7264046342
  
 <br /> 
  
-# Achievements:
+### Achievements:
 - Lead and mentor a team of students in my final year
 - Incubator— On Matlab which shows Crop Disease.
 - Proven ability of experience in Software Development and Project Implementation and experience as Junior Data Scientist. 
@@ -23,13 +22,13 @@ Mobile : 7264046342
 
 
 
-<h3> Functional Responsibilities </h3>
+### Functional Responsibilities 
 
 - Involved in Data Preprocessing Techniques for making the data useful for creating Machine Learning models.
 - Involved in creating Machine Learning models for test A/B content which is useful for making better decisions regarding the products.
 - Lead and mentor a team of students in my final year.
 
-<h3> REPRESENTATIVE PROJECT EXPERIENCE SUMMARY </h3>
+### REPRESENTATIVE PROJECT EXPERIENCE SUMMARY 
 <br>
 <table>  
 <tr>
@@ -103,7 +102,7 @@ Mobile : 7264046342
 </tr>
 </table>
 
-<h3>ConNect With Me </h3>
+### Connect With Me
 
 <a href="https://discord.com/channels/@m">
   <img align="left" alt="Nimish's Discord" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
@@ -124,14 +123,14 @@ Mobile : 7264046342
 <br />
 
 
-<h3>Strength</h3>	
+### Strength	
 
 - Positive Attitude: To progress positively under all circumstances with conviction and maturity in approach.
 - Adaptability & Flexibility: To adapt accordingly under the application of adverse or pressure conditions without deviating from critical to quality concerns.
 - Enthusiasm for Learning: Endlessly strives to learn through different activities.
 
 
-<h3>Endorsement</h3>
+### Endorsement
 
 I hereby declare that the information furnished above is complete and true to the best of my knowledge.
 <p align="Right">
