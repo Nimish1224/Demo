@@ -60,10 +60,12 @@ Team Lead
 
 </td>
 <td valign="top" width="34%">
-  
+<th>
 - [Paddy Leaf Disease Detection ](https://github.com/NimishNagapure/Paddy-Leaf-Image-Detection)
+</th>
+<th>
 - [Improving Crop Productivity With Linear Regression](https://github.com/NimishNagapure/DataScience_Project_Improving_Crop_Productivity_Using-_Linear_Regression)
-
+</th>
 </td>
 <td valign="top" width="33%">
 
