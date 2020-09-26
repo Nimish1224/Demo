@@ -3,8 +3,8 @@
 ## Mobile : 7264046342 
 
      
-### Profile
- <p> Summary: An independent and self-motivated student with proven ability and experience in developing web applications using full stack and Data Science projects. I have also participated in various project competitions.Recognized by professors, colleagues, and peers as a personable, dedicated performer who demonstrates innovation, communication, and teamwork to ensure quality, timely project completion.</p>
+<span style="font-family:Didot; font-size:2em;">Objective</span>
+> Summary: An independent and self-motivated student with proven ability and experience in developing web applications using full stack and Data Science projects. I have also participated in various project competitions.Recognized by professors, colleagues, and peers as a personable, dedicated performer who demonstrates innovation, communication, and teamwork to ensure quality, timely project completion.
  
 <br /> 
  
@@ -28,7 +28,7 @@
 - Involved in creating Machine Learning models for test A/B content which is useful for making better decisions regarding the products.
 - Lead and mentor a team of students in my final year.
 
-### REPRESENTATIVE PROJECT EXPERIENCE SUMMARY 
+### Representative Project Experience Summary
 <br>
 <table>  
 <tr>
