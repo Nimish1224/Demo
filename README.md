@@ -1,8 +1,8 @@
-Nimish A. Nagapure									
+<b> Nimish A. Nagapure </b>									
 E-mail: nimishnagapure@gmail.com  	 	      	  	             Mobile : 7264046342  
-Profile
+#### Profile
  <p> Summary: An independent and self-motivated student with proven ability and experience in developing web applications using full stack and Data Science projects. I have also participated in various project competitions.Recognized by professors, colleagues, and peers as a personable, dedicated performer who demonstrates innovation, communication, and teamwork to ensure quality, timely project completion.
-### Achievements: 
+<h4> Achievements: </h4>
 - Lead and mentor a team of students in my final year
 
 - Incubator— On Matlab which shows Crop Disease.</p>
@@ -17,13 +17,13 @@ Profile
 
 
 
-## Functional Responsibilities
+<h3> Functional Responsibilities </h3>
 
 - Involved in Data Preprocessing Techniques for making the data useful for creating Machine Learning models.
 - Involved in creating Machine Learning models for test A/B content which is useful for making better decisions regarding the products.
 - Lead and mentor a team of students in my final year.
 
-## REPRESENTATIVE PROJECT EXPERIENCE SUMMARY
+<h3> REPRESENTATIVE PROJECT EXPERIENCE SUMMARY </h3>
 <br>
 <table>  
 <tr>
@@ -64,35 +64,52 @@ Profile
 - 4/5 M
 
 </td>
+</tr>
+</table>
+
+<h3>Academia</h3>
+
+<table>  
+<tr>
+<th><b>📅 Year</b></th>
+<th><b>🏫 Academic</b></th>
+</tr>
+<tr>
+
 <td valign="top" width="33%">
+	
+- 2020
+- 2016
+- 2014
+
+</td>
+	
+<td valign="top" width="33%">
+
+- <b>B.Tech(Computer Science Engineering)</b> from TGP college of 
+		Engineering,Nagpur.<b> Secured 8.21 CGPA.</b>
+
+- 12ᵗʰ from Vande Mataram College,Nagpur.<b> Secured 57.48%.</b>
+
+- 10ᵗʰ from Railway Men’s High School,Nagpur.<b> Secured 70.82%.</b>
 
 </td>
 </tr>
 </table>
 
-Academia
-
-2020         	<b>B.Tech(Computer Science Engineering)</b> from TGP college of 
-		Engineering,Nagpur.<b> Secured 8.21 CGPA.</b>
-
-2016		12ᵗʰ from Vande Mataram College,Nagpur.<b> Secured 57.48%.</b>
-
-2014 		10ᵗʰ from Railway Men’s High School,Nagpur.<b> Secured 70.82%.</b>
-
-
-## Github Link
+<h3>Github Link</h3>
 
 https://github.com/NimishNagapure
 
 
-# Strength	
+<h3>Strength</h3>	
 
 Positive Attitude: To progress positively under all circumstances with conviction and maturity in approach.
 Adaptability & Flexibility: To adapt accordingly under the application of adverse or pressure conditions without deviating from critical to quality concerns.
 Enthusiasm for Learning: Endlessly strives to learn through different activities.
 
 
-# Endorsement
+<h3>Endorsement</h3>
 
 I hereby declare that the information furnished above is complete and true to the best of my knowledge.
 
