@@ -6,6 +6,9 @@ Mobile : 7264046342
      
 ### Profile
  <p> Summary: An independent and self-motivated student with proven ability and experience in developing web applications using full stack and Data Science projects. I have also participated in various project competitions.Recognized by professors, colleagues, and peers as a personable, dedicated performer who demonstrates innovation, communication, and teamwork to ensure quality, timely project completion.</p>
+ 
+<br /> 
+ 
 # Achievements:
 - Lead and mentor a team of students in my final year
 - Incubator— On Matlab which shows Crop Disease.
