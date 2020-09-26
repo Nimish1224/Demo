@@ -1,56 +1,37 @@
 Nimish A. Nagapure									
 E-mail: nimishnagapure@gmail.com  	 	      	  	             Mobile : 7264046342  
 Profile
-Summary: An independent and self-motivated student with proven ability and experience in developing web applications using full stack and Data Science projects. I have also participated in various project competitions.Recognized by professors, colleagues, and peers as a personable, dedicated performer who demonstrates innovation, communication, and teamwork to ensure quality, timely project completion.
-Achievements: 
-Lead and mentor a team of students in my final year
+ <p> Summary: An independent and self-motivated student with proven ability and experience in developing web applications using full stack and Data Science projects. I have also participated in various project competitions.Recognized by professors, colleagues, and peers as a personable, dedicated performer who demonstrates innovation, communication, and teamwork to ensure quality, timely project completion.
+### Achievements: 
+- Lead and mentor a team of students in my final year
 
-Incubator— On Matlab which shows Crop Disease.
-Proven ability of experience in Software Development and Project Implementation and experience as Junior Data Scientist. 
-Programming Languages: Python, JavaScript ,Django, Dart.
-Databases: Mysql,PostgreSQL, Basic knowledge in Oracle.
-Cloud Platform: AWS,GCP.
-Platforms and Misc: Anaconda, Jupyter Notebook,Pycharm,Visual Studio 2017,VS 2016, Anaconda,AWS Sage Maker.
-Other Skills: Having the knowledge of Agile Software Development LifeCycle.
-Possess the quality of a good storyteller.
-Team player with effective communication skills and proven abilities in resolving complex issues.
+- Incubator— On Matlab which shows Crop Disease.</p>
+- Proven ability of experience in Software Development and Project Implementation and experience as Junior Data Scientist. 
+- Programming Languages: Python, JavaScript ,Django, Dart.
+- Databases: Mysql,PostgreSQL, Basic knowledge in Oracle.
+- Cloud Platform: AWS,GCP.
+- Platforms and Misc: Anaconda, Jupyter Notebook,Pycharm,Visual Studio 2017,VS 2016, Anaconda,AWS Sage Maker.
+- Other Skills: Having the knowledge of Agile Software Development LifeCycle.
+- Possess the quality of a good storyteller.
+- Team player with effective communication skills and proven abilities in resolving complex issues.
 
 
 
-Functional Responsibilities
+## Functional Responsibilities
 
-Involved in Data Preprocessing Techniques for making the data useful for creating Machine Learning models.
-Involved in creating Machine Learning models for test A/B content which is useful for making better decisions regarding the products.
-Lead and mentor a team of students in my final year.
+- Involved in Data Preprocessing Techniques for making the data useful for creating Machine Learning models.
+- Involved in creating Machine Learning models for test A/B content which is useful for making better decisions regarding the products.
+- Lead and mentor a team of students in my final year.
 
-REPRESENTATIVE PROJECT EXPERIENCE SUMMARY
-Client
-Project
-Technology
-Roles 
-  Duration     (in months)
-
-Mini Project
-College
-Paddy Leaf Disease Detection 
-MATLAB
-Team Lead
-2 - 3
-
-Mega Project
-College
-Improving Crop Productivity With Linear Regression
-PYTHON ( DATA SCIENCE)
-Team Lead
- 4 - 5
+## REPRESENTATIVE PROJECT EXPERIENCE SUMMARY
 <br>
 <table>  
 <tr>
-<th><b>📕 Client</b></th>
-<th><b>🗒️ Project</b></th>
-<th><b>📝 Technology</b></th>
-<th><b>📝 Roles</b></th>
-<th><b>📝 Duration(Months)</b></th>
+<th><b>🤵 Client</b></th>
+<th><b>💾 Project</b></th>
+<th><b>🛠 Technology</b></th>
+<th><b>🎫 Roles</b></th>
+<th><b>📅 Duration(Months)</b></th>
 </tr>
 <tr>
 <td valign="top" width="33%">
@@ -91,27 +72,27 @@ Team Lead
 
 Academia
 
-2020         	B.Tech(Computer Science Engineering) from TGP college of 
-		Engineering,Nagpur. Secured 8.21 CGPA.
+2020         	<b>B.Tech(Computer Science Engineering)</b> from TGP college of 
+		Engineering,Nagpur.<b> Secured 8.21 CGPA.</b>
 
-2016		12ᵗʰ from Vande Mataram College,Nagpur. Secured 57.48%.
+2016		12ᵗʰ from Vande Mataram College,Nagpur.<b> Secured 57.48%.</b>
 
-2014 		10ᵗʰ from Railway Men’s High School,Nagpur. Secured 70.82%.
+2014 		10ᵗʰ from Railway Men’s High School,Nagpur.<b> Secured 70.82%.</b>
 
 
-Github Link
+## Github Link
 
 https://github.com/NimishNagapure
 
 
-Strength	
+# Strength	
 
 Positive Attitude: To progress positively under all circumstances with conviction and maturity in approach.
 Adaptability & Flexibility: To adapt accordingly under the application of adverse or pressure conditions without deviating from critical to quality concerns.
 Enthusiasm for Learning: Endlessly strives to learn through different activities.
 
 
-Endorsement
+# Endorsement
 
 I hereby declare that the information furnished above is complete and true to the best of my knowledge.
 
