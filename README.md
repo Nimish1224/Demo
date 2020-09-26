@@ -1,6 +1,7 @@
-<b> Nimish A. Nagapure </b>									
+<b> Nimish A. Nagapure </b>
+<br />
 E-mail: nimishnagapure@gmail.com  	 	      	  	             Mobile : 7264046342  
-#### Profile
+### Profile
  <p> Summary: An independent and self-motivated student with proven ability and experience in developing web applications using full stack and Data Science projects. I have also participated in various project competitions.Recognized by professors, colleagues, and peers as a personable, dedicated performer who demonstrates innovation, communication, and teamwork to ensure quality, timely project completion.
 <h4> Achievements: </h4>
 - Lead and mentor a team of students in my final year
@@ -115,7 +116,7 @@ E-mail: nimishnagapure@gmail.com  	 	      	  	             Mobile : 7264046342
   <img align="left" alt="Nimish's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-
+<br />
 
 
 <h3>Strength</h3>	
@@ -128,6 +129,7 @@ E-mail: nimishnagapure@gmail.com  	 	      	  	             Mobile : 7264046342
 <h3>Endorsement</h3>
 
 I hereby declare that the information furnished above is complete and true to the best of my knowledge.
-
-- Date:				
-- Place: Nagpur								               Nimish.A.Nagapure
+<p align="Right">
+  Nimish.A.Nagapure
+</p>					
+               
