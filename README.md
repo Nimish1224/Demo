@@ -97,21 +97,37 @@ E-mail: nimishnagapure@gmail.com  	 	      	  	             Mobile : 7264046342
 </tr>
 </table>
 
-<h3>Github Link</h3>
+<h3>ConNect With Me </h3>
 
-https://github.com/NimishNagapure
+<a href="https://discord.com/channels/@m">
+  <img align="left" alt="Nimish's Discord" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
+<a href="https://twitter.com/home">
+  <img align="left" alt="Nimish's Nagapure | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/nimish-nagapure-8b6792191/">
+  <img align="left" alt="Nimish's LinkdeIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.reddit.com/user/Cool_Boy_Nimish">
+  <img align="left" alt="Nimish's Reddit" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
+<a href="https://github.com/NimishNagapure">
+  <img align="left" alt="Nimish's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+
 
 
 <h3>Strength</h3>	
 
-Positive Attitude: To progress positively under all circumstances with conviction and maturity in approach.
-Adaptability & Flexibility: To adapt accordingly under the application of adverse or pressure conditions without deviating from critical to quality concerns.
-Enthusiasm for Learning: Endlessly strives to learn through different activities.
+- Positive Attitude: To progress positively under all circumstances with conviction and maturity in approach.
+- Adaptability & Flexibility: To adapt accordingly under the application of adverse or pressure conditions without deviating from critical to quality concerns.
+- Enthusiasm for Learning: Endlessly strives to learn through different activities.
 
 
 <h3>Endorsement</h3>
 
 I hereby declare that the information furnished above is complete and true to the best of my knowledge.
 
-Date:				
-Place: Nagpur								               Nimish.A.Nagapure
+- Date:				
+- Place: Nagpur								               Nimish.A.Nagapure
