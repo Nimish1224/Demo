@@ -3,20 +3,20 @@
 ## Mobile : 7264046342 
 
 ### Profile 
-<p> Summary: An independent and self-motivated student with proven ability and experience in developing web applications using full stack and Data Science projects. I have also participated in various project competitions.Recognized by professors, colleagues, and peers as a personable, dedicated performer who demonstrates innovation, communication, and teamwork to ensure quality, timely project completion.</p>
+<p> <b>Summary</b>: An independent and self-motivated student with proven ability and experience in developing web applications using full stack and Data Science projects. I have also participated in various project competitions.Recognized by professors, colleagues, and peers as a personable, dedicated performer who demonstrates innovation, communication, and teamwork to ensure quality, timely project completion.</p>
  
 <br /> 
  
->> <b> Achievements:</b>
-+ Lead and mentor a team of students in my final year
-+ Incubator— On Matlab which shows Crop Disease.
-- Proven ability of experience in Software Development and Project Implementation and experience as Junior Data Scientist. 
-	* Programming Languages: Python, JavaScript ,Django, Dart.
-	+ Databases: Mysql,PostgreSQL, Basic knowledge in Oracle.
-	- Cloud Platform: AWS,GCP.
-	- Platforms and Misc: Anaconda, Jupyter Notebook,Pycharm,Visual Studio 2017,VS 2016, Anaconda,AWS Sage Maker.
-+ Other Skills: Having the knowledge of Agile Software Development LifeCycle.
-+ Possess the quality of a good storyteller.
+> <b> Achievements:</b>
++ <b>Lead and mentor a team of students in my final year</b>
++ <b>Incubator— On Matlab which shows Crop Disease.</b>
+- <b>Proven ability</b> of experience in <b>Software Development and Project Implementation and experience as Junior Data Scientist</b>. 
+	* <b>Programming Languages:</b> Python, JavaScript ,Django, Dart.
+	+ <b>Databases:</b> Mysql,PostgreSQL, Basic knowledge in Oracle.
+	- <b>Cloud Platform:</b> AWS,GCP.
+	- <b>Platforms and Misc:</b> Anaconda, Jupyter Notebook,Pycharm,Visual Studio 2017,VS 2016, Anaconda,AWS Sage Maker.
++ <b>Other Skills:</b> Having the knowledge of Agile Software Development LifeCycle.
++ <b>Possess the quality of a good storyteller.</b>
 + Team player with effective communication skills and proven abilities in resolving complex issues.
 
 
@@ -124,9 +124,9 @@
 
 ### Strength	
 
-- Positive Attitude: To progress positively under all circumstances with conviction and maturity in approach.
-- Adaptability & Flexibility: To adapt accordingly under the application of adverse or pressure conditions without deviating from critical to quality concerns.
-- Enthusiasm for Learning: Endlessly strives to learn through different activities.
+- <b>Positive Attitude:</b> To progress positively under all circumstances with conviction and maturity in approach.
+- <b>Adaptability & Flexibility:</b> To adapt accordingly under the application of adverse or pressure conditions without deviating from critical to quality concerns.
+- <b>Enthusiasm for Learning:</b> Endlessly strives to learn through different activities.
 
 
 ### Endorsement
