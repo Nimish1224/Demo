@@ -8,16 +8,16 @@
 <br /> 
  
 >> <b> Achievements:</b>
->>> Lead and mentor a team of students in my final year
->>> Incubator— On Matlab which shows Crop Disease.
++ Lead and mentor a team of students in my final year
++ Incubator— On Matlab which shows Crop Disease.
 - Proven ability of experience in Software Development and Project Implementation and experience as Junior Data Scientist. 
-- Programming Languages: Python, JavaScript ,Django, Dart.
-- Databases: Mysql,PostgreSQL, Basic knowledge in Oracle.
-- Cloud Platform: AWS,GCP.
-- Platforms and Misc: Anaconda, Jupyter Notebook,Pycharm,Visual Studio 2017,VS 2016, Anaconda,AWS Sage Maker.
-- Other Skills: Having the knowledge of Agile Software Development LifeCycle.
-- Possess the quality of a good storyteller.
-- Team player with effective communication skills and proven abilities in resolving complex issues.
+	* Programming Languages: Python, JavaScript ,Django, Dart.
+	+ Databases: Mysql,PostgreSQL, Basic knowledge in Oracle.
+	- Cloud Platform: AWS,GCP.
+	- Platforms and Misc: Anaconda, Jupyter Notebook,Pycharm,Visual Studio 2017,VS 2016, Anaconda,AWS Sage Maker.
++ Other Skills: Having the knowledge of Agile Software Development LifeCycle.
++ Possess the quality of a good storyteller.
++ Team player with effective communication skills and proven abilities in resolving complex issues.
 
 
 
