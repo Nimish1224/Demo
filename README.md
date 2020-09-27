@@ -7,9 +7,9 @@
  
 <br /> 
  
-### Achievements:
-- Lead and mentor a team of students in my final year
-- Incubator— On Matlab which shows Crop Disease.
+>> <b> Achievements:</b>
+>>> Lead and mentor a team of students in my final year
+>>> Incubator— On Matlab which shows Crop Disease.
 - Proven ability of experience in Software Development and Project Implementation and experience as Junior Data Scientist. 
 - Programming Languages: Python, JavaScript ,Django, Dart.
 - Databases: Mysql,PostgreSQL, Basic knowledge in Oracle.
