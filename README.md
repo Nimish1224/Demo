@@ -1,8 +1,9 @@
 ## Nimish A. Nagapure
-## <nimishnagapure@gmail.com>  	 	      	  	        
-##  <7264046342> 
+### <nimishnagapure@gmail.com>  	 	      	  	        
+###  7264046342
 
-### [Profile](.) 
+### [Profile](https://github.com/NimishNagapure/Demo) 
+<br />
 <p> <b>Summary</b>: An independent and self-motivated student with proven ability and experience in developing web applications using full stack and Data Science projects. I have also participated in various project competitions.Recognized by professors, colleagues, and peers as a personable, dedicated performer who demonstrates innovation, communication, and teamwork to ensure quality, timely project completion.</p>
  
 <br /> 
@@ -21,13 +22,15 @@
 
 
 
-### [Functional Responsibilities](.) 
+### [Functional Responsibilities](https://github.com/NimishNagapure/Demo) 
+<br />
 
 - Involved in Data Preprocessing Techniques for making the data useful for creating Machine Learning models.
 - Involved in creating Machine Learning models for test A/B content which is useful for making better decisions regarding the products.
 - Lead and mentor a team of students in my final year.
 
-### [Representative Project Experience Summary](.)
+### [Representative Project Experience Summary](https://github.com/NimishNagapure/Demo)
+<br />
 <br>
 <table>  
 <tr>
@@ -101,7 +104,8 @@
 </tr>
 </table>
 
-### [Rech To Me](.)
+### [Rech To Me](https://github.com/NimishNagapure/Demo)
+<br />
 
 <a href="https://discord.com/channels/@m">
   <img align="left" alt="Nimish's Discord" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
@@ -122,14 +126,16 @@
 <br />
 
 
-### [Strength](.)	
+### [Strength](https://github.com/NimishNagapure/Demo)	
+<br />
 
 - <b>Positive Attitude:</b> To progress positively under all circumstances with conviction and maturity in approach.
 - <b>Adaptability & Flexibility:</b> To adapt accordingly under the application of adverse or pressure conditions without deviating from critical to quality concerns.
 - <b>Enthusiasm for Learning:</b> Endlessly strives to learn through different activities.
 
 
-### [Endorsement](.)
+### [Endorsement](https://github.com/NimishNagapure/Demo)
+<br />
 
 I hereby declare that the information furnished above is complete and true to the best of my knowledge.
 <p align="Right">
