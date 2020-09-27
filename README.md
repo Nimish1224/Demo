@@ -1,6 +1,6 @@
 ## Nimish A. Nagapure
-### <nimishnagapure@gmail.com>  	 	      	  	        
-###  7264046342
+## <nimishnagapure@gmail.com>  	 	      	  	        
+##  7264046342
 
 ### [Profile](https://github.com/NimishNagapure/Demo) 
 _____________________________________________________________
@@ -23,12 +23,13 @@ _____________________________________________________________
 
 
 ### [Functional Responsibilities](https://github.com/NimishNagapure/Demo) 
-
+_____________________________________________________________
 - Involved in Data Preprocessing Techniques for making the data useful for creating Machine Learning models.
 - Involved in creating Machine Learning models for test A/B content which is useful for making better decisions regarding the products.
 - Lead and mentor a team of students in my final year.
 
 ### [Representative Project Experience Summary](https://github.com/NimishNagapure/Demo)
+_____________________________________________________________
 <br>
 <table>  
 <tr>
@@ -73,6 +74,7 @@ _____________________________________________________________
 </table>
 
 ### [Academia](https://github.com/NimishNagapure/Demo)
+_____________________________________________________________
 
 <table>  
 <tr>
@@ -103,6 +105,7 @@ _____________________________________________________________
 </table>
 
 ### [Rech To Me](https://github.com/NimishNagapure/Demo)
+_____________________________________________________________
 
 <a href="https://discord.com/channels/@m">
   <img align="left" alt="Nimish's Discord" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
@@ -123,7 +126,8 @@ _____________________________________________________________
 <br />
 
 
-### [Strength](https://github.com/NimishNagapure/Demo)	
+### [Strength](https://github.com/NimishNagapure/Demo)
+_____________________________________________________________
 
 - <b>Positive Attitude:</b> To progress positively under all circumstances with conviction and maturity in approach.
 - <b>Adaptability & Flexibility:</b> To adapt accordingly under the application of adverse or pressure conditions without deviating from critical to quality concerns.
@@ -131,6 +135,7 @@ _____________________________________________________________
 
 
 ### [Endorsement](https://github.com/NimishNagapure/Demo)
+_____________________________________________________________
 
 I hereby declare that the information furnished above is complete and true to the best of my knowledge.
 <p align="Right">
