@@ -1,7 +1,4 @@
 ![Header](https://github.com/NimishNagapure/Demo/blob/master/header.PNG)
-## Nimish A. Nagapure
-## <nimishnagapure@gmail.com>  	 	      	  	        
-##  7264046342
 
 ### [Profile](https://github.com/NimishNagapure/Demo) 
 _____________________________________________________________
@@ -141,5 +138,6 @@ _____________________________________________________________
 I hereby declare that the information furnished above is complete and true to the best of my knowledge.
 <p align="Right">
   Nimish.A.Nagapure
-</p>					
+</p>
+![footer](https://github.com/NimishNagapure/Demo/blob/master/footer.PNG)
                
